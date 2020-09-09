@@ -8,4 +8,5 @@ Data File | Description
 [AirQualityUCI.csv](https://raw.githubusercontent.com/skob1014/sample-data/master/AirQualityUCI.csv) | The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. [Link](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 [sales_data.csv](https://raw.githubusercontent.com/skob1014/sample-data/master/sales_data.csv) | Data on video games (not factual) with features and sales numbers.
 [wdbc.data.csv](https://raw.githubusercontent.com/skob1014/sample-data/master/wdbc.data.csv) |  Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. [Link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+SMSSpamCollection.txt | SMS messages indicated as spam or ham, for text classification
 
